@@ -1,4 +1,4 @@
-<h1 align="center" style="font-family: 'Arial', sans-serif; color: #333;">Hey 👋What's Up?</h1>
+<h1 align="center" style="font-family: 'Arial', sans-serif; color: #1E1E1E;">Hey 👋What's Up?</h1>
 
 ###
 
