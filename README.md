@@ -51,9 +51,9 @@
 ## My Contribution Graph
 
 <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph.svg">
-    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/RedEye1605/RedEye1605/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://github.com/RedEye1605/RedEye1605/blob/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://github.com/RedEye1605/RedEye1605/blob/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://github.com/RedEye1605/RedEye1605/blob/output/pacman-contribution-graph.svg">
 </picture>
 
 ###
