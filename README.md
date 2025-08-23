@@ -13,23 +13,17 @@
   <img src="https://skillicons.dev/icons?i=mysql" height="60" alt="SQL logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=postgres" height="60" alt="PostgreSQL logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mongodb.png" height="50" alt="MongoDB logo" style="transition: transform 0.3s;"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" height="50" alt="MariaDB logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="AWS logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=docker" height="60" alt="Docker logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=kubernetes" height="60" alt="Kubernetes logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=git" height="60" alt="Git logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=flask" height="60" alt="Flask logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=java" height="60" alt="Java logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=scala" height="60" alt="Scala logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=matlab" height="60" alt="MATLAB logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=react" height="60" alt="React logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=angular" height="60" alt="Angular logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=vue" height="60" alt="Vue logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=tailwind" height="60" alt="Tailwind CSS logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=sass" height="60" alt="Sass logo" style="transition: transform 0.3s;"/>
   <img src="https://skillicons.dev/icons?i=gitlab" height="60" alt="GitLab logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=jenkins" height="60" alt="Jenkins logo" style="transition: transform 0.3s;"/>
-  <img src="https://skillicons.dev/icons?i=spring" height="60" alt="Spring logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mariadb.png" height="50" alt="MariaDB logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/dart.png" height="50" alt="Dart logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/flutter.png" height="50" alt="Flutter logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/react.png" height="50" alt="React Native logo" style="transition: transform 0.3s;"/>
@@ -38,10 +32,10 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/laravel.png" height="50" alt="Laravel logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/streamlit.png" height="50" alt="Streamlit logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/vite.png" height="50" alt="Vite logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="50" alt="JavaScript logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" height="50" alt="Figma logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50" alt="HTML logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="50" alt="CSS logo" style="transition: transform 0.3s;"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="50" alt="JavaScript logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" height="50" alt="Jira logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50" alt="Visual Studio Code logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="50" alt="REST logo" style="transition: transform 0.3s;"/>
