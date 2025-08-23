@@ -35,11 +35,13 @@
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" height="50" alt="Figma logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" height="50" alt="HTML logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/css.png" height="50" alt="CSS logo" style="transition: transform 0.3s;"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/javascript.png" height="50" alt="JavaScript logo" style="transition: transform 0.3s;"/>
+  <img src="https://skillicons.dev/icons?i=js" height="60" alt="JavaScript logo" style="transition: transform 0.3s;"/>
+  <img src="https://skillicons.dev/icons?i=notion" height="60" alt="Notion logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/jira.png" height="50" alt="Jira logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/visual_studio_code.png" height="50" alt="Visual Studio Code logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rest.png" height="50" alt="REST logo" style="transition: transform 0.3s;"/>
   <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/http.png" height="50" alt="HTTP logo" style="transition: transform 0.3s;"/>
+  <img src="https://skillicons.dev/icons?i=netlify" height="60" alt="Netlify logo" style="transition: transform 0.3s;"/>
 </div>
 
 
